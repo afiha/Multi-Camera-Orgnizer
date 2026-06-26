@@ -1,0 +1,6 @@
+{
+  "name": "Synchronized Multi-Camera Capture",
+  "description": "A real-time multi-device synchronized camera controller and client system. It uses high-precision clock synchronization to achieve zero-delay photo and video capture across multiple devices, and includes complete native Android code examples for Bluetooth RFCOMM, BLE, and Camera2 API.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
